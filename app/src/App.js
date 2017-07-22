@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import StripeCheckout from 'react-stripe-checkout';
-// import stripeKey from './config';
 import axios from 'axios';
 
 
